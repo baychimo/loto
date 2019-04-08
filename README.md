@@ -140,7 +140,7 @@ If you also want to be able to run the tests, install dev packages:
 
 ## Running the experiments
 
-[![Experiments: composite of terminal screenshots](screenshots/composites/screenshots_sm.png "Experiments: composite of terminal screenshots")](screenshots/composites/screenshots_lg.png)
+[![Experiments: composite of terminal screenshots](https://raw.githubusercontent.com/baychimo/loto/master/screenshots/composites/screenshots_sm.png "Experiments: composite of terminal screenshots")](https://raw.githubusercontent.com/baychimo/loto/master/screenshots/composites/screenshots_lg.png)
 
 ### First run
 
@@ -210,7 +210,7 @@ Dieharder is installed and in path
 
 Here's a composite of the four plots produced by this experiment:
 
-[![Plots: composite of plots generated in x2](https://raw.githubusercontent.com/baychimo/loto/screenshots/composites/x2_plots_sm.png "Plots: composite of plots generated in x2")](https://raw.githubusercontent.com/baychimo/loto/screenshots/composites/x2_plots_lg.png)
+[![Plots: composite of plots generated in x2](https://raw.githubusercontent.com/baychimo/loto/master/screenshots/composites/x2_plots_sm.png "Plots: composite of plots generated in x2")](https://raw.githubusercontent.com/baychimo/loto/master/screenshots/composites/x2_plots_lg.png)
 
 Run the experiment like so:
 
@@ -312,7 +312,7 @@ Sometimes the CPT+ might not be able to produce a prediction, so you'll see a '0
 
 Another tool twisted out of its main function to help us have fun. The predictions here are unusable (so far), but at least nice plots are generated:
 
-[![Prophet plots: composite of plots generated in x5](https://raw.githubusercontent.com/baychimo/loto/screenshots/composites/x5_plots_sm.png "Prophet plots: composite of plots generated in x5")](https://raw.githubusercontent.com/baychimo/loto/screenshots/composites/x5_plots_lg.png)
+[![Prophet plots: composite of plots generated in x5](https://raw.githubusercontent.com/baychimo/loto/master/screenshots/composites/x5_plots_sm.png "Prophet plots: composite of plots generated in x5")](https://raw.githubusercontent.com/baychimo/loto/master/screenshots/composites/x5_plots_lg.png)
 
 ```
 (loto)$ python loto/core.py x5
