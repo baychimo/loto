@@ -1,0 +1,13 @@
+Click
+colorama
+fbprophet
+JPype1
+matplotlib
+numpy
+pandas
+pyfiglet
+pystan
+python-dateutil
+requests
+scipy
+tqdm

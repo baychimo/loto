@@ -1,0 +1,41 @@
+[DOCTORED SCREENSHOT]
+(loto) croix-du-sud:loto jonathan$ python loto/x1_statistics.py 
+   _  _____   _____ __        __  _      __  _          
+  | |/ <  /  / ___// /_____ _/ /_(_)____/ /_(_)_________
+  |   // /   \__ \/ __/ __ `/ __/ / ___/ __/ / ___/ ___/
+ /   |/ /   ___/ / /_/ /_/ / /_/ (__  ) /_/ / /__(__  ) 
+/_/|_/_/   /____/\__/\__,_/\__/_/____/\__/_/\___/____/  
+                                                        
+
+Ent is installed and in path
+
+Dieharder is installed and in path
+
+################################################################################
+# ENT 
+################################################################################
+
+--------------------------------------------------------------------------------
+/Users/jonathan/Projects/loto/loto/data/files/x1_tests_set_cl_ball_1.txt
+[...]ENT output for this sequence[...]
+
+--------------------------------------------------------------------------------
+/Users/jonathan/Projects/loto/loto/data/files/x1_tests_set_cl_ball_2.txt
+[...]ENT output for this sequence[...]
+
+[...]Other sequences[...]
+
+################################################################################
+# DIEHARDER 
+################################################################################
+
+--------------------------------------------------------------------------------
+/Users/jonathan/Projects/loto/loto/data/files/x1_tests_set_cl_ball_1.txt
+[...]DIEHARDER output for this sequence[...]
+
+--------------------------------------------------------------------------------
+/Users/jonathan/Projects/loto/loto/data/files/x1_tests_set_cl_ball_2.txt
+[...]DIEHARDER output for this sequence[...]
+
+[...]Other sequences[...]
+
