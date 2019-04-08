@@ -140,7 +140,7 @@ If you also want to be able to run the tests, install dev packages:
 
 ## Running the experiments
 
-[![Experiments: composite of terminal screenshots](https://raw.githubusercontent.com/baychimo/loto/screenshots/composites/screenshots_sm.png "Experiments: composite of terminal screenshots")](https://raw.githubusercontent.com/baychimo/loto/screenshots/composites/screenshots_lg.png)
+[![Experiments: composite of terminal screenshots](screenshots/composites/screenshots_sm.png "Experiments: composite of terminal screenshots")](screenshots/composites/screenshots_lg.png)
 
 ### First run
 
