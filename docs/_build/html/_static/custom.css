@@ -1,0 +1,9 @@
+div.body h2 {
+    color: brown;
+}
+dl.function, dl.class {
+    padding-bottom: 10px;
+}
+dl.function > dt, dl.class > dt {
+    background-color: #f9f9f9;
+}
