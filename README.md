@@ -431,7 +431,7 @@ Here are a few ideas for eventual forkers about what could be done:
     - x3: this script can definitely be improved (this is always true right, but here especially).
     - x5: find a way to make the results useful, as in: a usable prediction.
 
-If you have any questions, need further instructions for your platform, do not hesitate to open an issue. And feel free to fork it of course! That's why it's here for. Have fun!
+If you have any questions, need further instructions for your platform, do not hesitate to open an issue. And feel free to fork it of course! That's why it's here for. The docstring generated docs are in the gh-pages branch, published here: [baychimo.github.io/loto](https://baychimo.github.io/loto/) Have fun!
 
 ## Author
 
