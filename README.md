@@ -25,6 +25,7 @@ This repository is for a personal project, it is a collection of scripts I call 
 - [Running the tests](#running-the-tests)
 - [Deployment](#deployment)
 - [Built With](#built-with)
+- [Docs](#docs)
 - [Contributing](#contributing)
 - [Author](#author)
 - [License](#license)
@@ -416,6 +417,10 @@ Small project built atop the shoulders of giants. Viva open source!
 - [Pyfiglet](https://github.com/pwaller/pyfiglet) - For the beautiful retro figlets :-)
 - [Colorama](https://github.com/tartley/colorama) - For the beautiful retro colors :-)
 
+## Docs
+
+The docstring generated docs are in the gh-pages branch. They are published here: [baychimo.github.io/loto](https://baychimo.github.io/loto/)
+
 ## Contributing
 
 I don't intend to maintain this project unless I have some new ideas that would make the process fun. It's one of those never-ending projects with no real scope where you can always add stuff, and always rewrite and improve what's already been done. So it has to be stopped somewhere.
@@ -431,7 +436,7 @@ Here are a few ideas for eventual forkers about what could be done:
     - x3: this script can definitely be improved (this is always true right, but here especially).
     - x5: find a way to make the results useful, as in: a usable prediction.
 
-If you have any questions, need further instructions for your platform, do not hesitate to open an issue. And feel free to fork it of course! That's why it's here for. The docstring generated docs are in the gh-pages branch, published here: [baychimo.github.io/loto](https://baychimo.github.io/loto/) Have fun!
+If you have any questions, need further instructions for your platform, do not hesitate to open an issue. And feel free to fork it of course! That's why it's here for. Have fun!
 
 ## Author
 
