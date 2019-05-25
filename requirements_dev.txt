@@ -1,5 +1,0 @@
-hypothesis
-pytest
-pytest-cov
-responses
-Sphinx

@@ -31,6 +31,10 @@ pytest.ini
 setup.cfg
 pytype_output/
 
+# VSCode
+.vscode/
+*.code-workspace
+
 # Sublime Text project files
 *.sublime-project
 *.sublime-workspace
