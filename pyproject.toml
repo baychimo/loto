@@ -24,7 +24,7 @@ tqdm = "^4.32"
 pylint = "^2.3"
 pytest = "^4.5"
 hypothesis = "^4.23"
-responses = "^0.10.6"
+responses = "^0.13.3"
 sphinx = "^4.0"
 
 [build-system]
