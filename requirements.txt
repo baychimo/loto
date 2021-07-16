@@ -10,7 +10,7 @@ colorama==0.4.1
 convertdate==2.3.2
 cycler==0.10.0
 Cython==0.29.7
-docutils==0.14
+docutils==0.17.1
 ephem==3.7.6.0
 fbprophet==0.5
 holidays==0.9.10
