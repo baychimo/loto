@@ -13,7 +13,7 @@ Cython==0.29.7
 docutils==0.17.1
 ephem==3.7.6.0
 fbprophet==0.5
-holidays==0.9.10
+holidays==0.11.2
 hypothesis==4.23.6
 idna==3.2
 imagesize==1.1.0
