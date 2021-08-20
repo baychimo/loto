@@ -39,13 +39,13 @@ pyparsing==2.4.0
 pystan==3.2.0
 pytest==4.5.0
 python-dateutil==2.8.0
-pytz==2019.1
+pytz==2021.1
 requests==2.22.0
 responses==0.10.6
 scipy==1.3.0
 setuptools-git==1.2
 six==1.12.0
-snowballstemmer==1.2.1
+snowballstemmer==2.1.0
 Sphinx==2.0.1
 sphinxcontrib-applehelp==1.0.1
 sphinxcontrib-devhelp==1.0.2
