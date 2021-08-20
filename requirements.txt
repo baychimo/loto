@@ -11,7 +11,7 @@ convertdate==2.3.2
 cycler==0.10.0
 Cython==0.29.24
 docutils==0.17.1
-ephem==3.7.6.0
+ephem==4.0.0.2
 fbprophet==0.5
 holidays==0.11.2
 hypothesis==4.23.6
