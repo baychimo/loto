@@ -1,3 +1,4 @@
+This repository is now archived, use at your own risk (update dependencies first, if you ever use this)
 ```
     __    ____  __________ 
    / /   / __ \/_  __/ __ \
